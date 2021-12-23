@@ -1,0 +1,13 @@
+**Data used**
+
+key: 3126F57Y50
+
+block size : 32
+
+rounds: 12
+
+text: WANT EXAM
+
+expected response for encrypt: b'^1\x90,\xa8U\xbf\xb3\xf66\xd8\xe2'
+
+expected response for decrypt: WANT EXAM
